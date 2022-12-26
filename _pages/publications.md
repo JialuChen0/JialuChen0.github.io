@@ -1,5 +1,5 @@
 ---
-permalink: /publication/
+permalink: /publications/
 title: "Publications"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
