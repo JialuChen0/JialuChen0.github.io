@@ -1,16 +1,13 @@
 ---
-layout: archive
+permalink: /publication/
 title: "Publications"
-permalink: /publications/
+excerpt: "This is a page not in th emain menu"
 author_profile: true
+redirect_from: 
+  - "/pub/"
+  - "/publication.html"
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2022
+1. **Jialu Chen**, and Gang Kou. "Attribute and Structure Preserving Graph Contrastive Learning."**(AAAI 2023)**
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
