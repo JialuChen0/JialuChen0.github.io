@@ -7,7 +7,6 @@ redirect_from:
   - "/pub/"
   - "/publication.html"
 ---
-
 ## 2022
 1. **Jialu Chen**, and Gang Kou. "Attribute and Structure Preserving Graph Contrastive Learning."**(AAAI 2023)**
 
