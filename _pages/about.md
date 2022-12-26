@@ -10,3 +10,8 @@ redirect_from:
 
 I am a third year PhD student in School of Business Administration, Faculty of Business Administration, Southwestern University of Finance and Economics(SWUFE). My advisor is Dr. Gang Kou. I obtained my Master degree from Statistics Department at University of Wisconsin Madison. I received my Bachelor Degree from East China Normal University.
 
+## Research Interests
+My research interests lie in graph neural network, and robust machine learning.
+
+## News
+* 11/2022: One paper has been accepted by AAAI-23
